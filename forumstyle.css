@@ -113,10 +113,8 @@ h1 {
 	left: 390px;
 	top: -37px;
 	line-height: 20px;
-	width: 200px;
-	height: 20px;
-	padding: 0 35px;
+	border-radius: 3px;
+	padding: 0px 35px;
 	font-size: 12px;
-	color: black;
-	overflow: hidden;
+	margin:0;
 }
